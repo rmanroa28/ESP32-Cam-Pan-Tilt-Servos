@@ -2,7 +2,6 @@
 #include <WiFi.h>
 #include <ESP32Servo.h>
 
-// Replace with your Wi-Fi credentials
 const char* ssid = "eduroam";
 const char* password = "pass";
 
