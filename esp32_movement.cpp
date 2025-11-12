@@ -3,8 +3,8 @@
 #include <ESP32Servo.h>
 
 // Replace with your Wi-Fi credentials
-const char* ssid = "YOUR_SSID";
-const char* password = "YOUR_PASSWORD";
+const char* ssid = "eduroam";
+const char* password = "pass";
 
 // Servo setup
 Servo servoPan;
